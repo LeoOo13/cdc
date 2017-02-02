@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Univers LT Std';
+    src: url(../fonts/univers/UniversLTStd-BoldCn.eot);
+    src: url(../fonts/univers/UniversLTStd-BoldCn.eot?#iefix) format("embedded-opentype"), 
+         url(../fonts/univers/UniversLTStd-BoldCn.woff) format("woff"), 
+         url(../fonts/univers/UniversLTStd-BoldCn-1.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal
+}
+/* Falta fuente, revisar referencias */
+@font-face {
+    font-family: 'oswaldregular';
+    src: url(../fonts/oswald/oswald-regular-webfont.woff2) format("woff2"), 
+         url(../fonts/oswald/oswald-regular-webfont.woff) format("woff");
+    font-weight: 400;
+    font-style: normal
+}
+@font-face {
+    font-family: 'open_sansregular';
+    src: url(../fonts/opensans/OpenSans-Regular-webfont.eot);
+    src: url(../fonts/opensans/OpenSans-Regular-webfont.eot?#iefix) format("embedded-opentype"), 
+         url(../fonts/opensans/OpenSans-Regular-webfont.woff) format("woff"), 
+         url(../fonts/opensans/OpenSans-Regular-webfont.ttf) format("truetype"), 
+         url(../fonts/opensans/OpenSans-Regular-webfont.svg) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+@font-face {
+    font-family: 'open_sanslight';
+    src: url(../fonts/opensans/OpenSans-Light-webfont.eot);
+    src: url(../fonts/opensans/OpenSans-Light-webfont.eot?#iefix) format("embedded-opentype"), 
+         url(../fonts/opensans/OpenSans-Light-webfont.woff) format("woff"), 
+         url(../fonts/opensans/OpenSans-Light-webfont.ttf) format("truetype"), 
+         url(../fonts/opensans/OpenSans-Light-webfont.svg) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+@font-face {
+    font-family: 'open_sansbold';
+    src: url(../fonts/opensans/OpenSans-Bold-webfont.eot);
+    src: url(../fonts/opensans/OpenSans-Bold-webfont.eot?#iefix) format("embedded-opentype"), 
+         url(../fonts/opensans/OpenSans-Bold-webfont.woff) format("woff"), 
+         url(../fonts/opensans/OpenSans-Bold-webfont.ttf) format("truetype"), 
+         url(../fonts/opensans/OpenSans-Bold-webfont.svg) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
